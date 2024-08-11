@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 680px;
+  background-color: antiquewhite;
+}
+.rowTile {
+  padding: 20px;
+  border: 1px solid black;
+}
+.columnTile {
+  padding: 20px;
+  border: 1px solid black;
+}
